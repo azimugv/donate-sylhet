@@ -1,3 +1,33 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+#hero-banner {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.7)), url(images/donation2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    background-ov
+}
+
+.center-content {
+    padding: 100px;
+    margin: 0 auto;
+    width: 550px;
+    text-align: center;
+    color: #fff;
+}
+
+.center-content p {
+    margin: 30px;
+}
+
+.donate-btn {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: #fff;
+
 }
